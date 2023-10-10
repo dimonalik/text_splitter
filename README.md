@@ -5,4 +5,4 @@ Utility uses PySimpleGUI module to create UI for app.
 It can be easily compiled to .exe by using pyinstaller (previously requirements must be satisfied)
 
 
-pyintsaller.exe --windowed --one-file text_splitter.py
+pyinstaller.exe --windowed --one-file text_splitter.py
